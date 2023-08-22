@@ -1,11 +1,18 @@
 h1 {
     text-align: center;
-    color: green;
+    color: yellow;
 }
 .test{
-    text-decoration-skip: green;
+    text-decoration-skip: yellow;
     
 }
 .imagem{
     text-align:center
+}
+.paragrafo{
+    text-align: center;
+    color:yellow
+}
+.card{
+    color: yellow;
 }
