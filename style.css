@@ -1,34 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
 h1 {
     text-align: center;
     color: yellow;
 }
 .test{
     text-align: center;
-    text-decoration-skip: yellow;
+    text-decoration-skip: black;
+    color: black;
     
 }
 .imagem{
+    
     text-align:center;
+    margin-right: 300px;
+    margin-left: 300px;
 
 }
 .paragrafo{
-    margin-right: 1000px;
+    margin-right: 300px;
+    margin-left: 300px;
     color:black;
     text-align: justify;
-    text-align: center;
-    text-align: inherit;
+    height: 100px;
+    
 }
-.card{
-
+.titulo{
     margin-bottom: 10%;
     margin-right: auto;
     text-decoration: none;
     background-color: black;
     color: yellow;
-    margin: 20px 20px 20px auto;
-    padding: 0 20px;
+    margin: 0px 0px 20px 20px;
+    padding: 15px 20px;
+    text-align: center;
 }
 .dica{
     color: yellow;
     
 }
+.geral{
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.card{
+    border: 10px solid rgb(221, 221, 0);
+    border-radius: 10px;
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    
+}
+
